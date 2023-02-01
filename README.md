@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges">
-  <a href="your-telegram-URL">
-    <img src="https://img.shields.io/endpoint?color=blue&url=https%3A%2F%2Ft.me%2FENSAM" alt="telegram Badge"/>
+  <a href="your-https://t.me/ENSAM-URL">
+    <img src="https://img.shields.io/endpoint?color=blue&url=https%3A%2F%2Ft.me%2FENSAM" alt="(https://t.me/ENSAM) Badge"/>
    
 </div>

@@ -18,4 +18,4 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/c3Q2EdrCKAsE8z94ZF/giphy.gif" width="100"/>
 </div>
 
-- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Anatoly-gray?style=flat&logo=Telegram&logoColor=white)](https://t.me/Anatolyguriev)
+- 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Anatoly-white?style=flat&logo=Telegram&logoColor=blue)](https://t.me/Anatolyguriev)

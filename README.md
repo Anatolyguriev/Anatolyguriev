@@ -1,7 +1,9 @@
 ### Hi there 👋
 # Im Anatoly. 3rd year biology student at NEFU university
 My telegram https://t.me/ENSAM
-
+<div id="badges">
+  <img src="https://t.me/ENSAM" alt="LinkedIn Badge"/>
+  </div>
 <!--
 **Anatolyguriev/Anatolyguriev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/c3Q2EdrCKAsE8z94ZF/giphy.gif" width="100"/>(https://t.me/Anatolyguriev)
+  <img src="https://media.giphy.com/media/c3Q2EdrCKAsE8z94ZF/giphy.gif" width="100"/>
 </div>
 
 - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Anatoly-gray?style=flat&logo=Telegram&logoColor=white)](https://t.me/Anatolyguriev)

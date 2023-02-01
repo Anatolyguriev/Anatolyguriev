@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center">
-<img src="https://giphy.com/clips/muppetwiki-muppets-kermit-the-frog-NaNyhn6HfdTRqJ4U5F" width="100"/>
-</div>
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="360" src="https://giphy.com/embed/NaNyhn6HfdTRqJ4U5F/video" width="480"></iframe></div>

@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="<iframe src='https://gfycat.com/ifr/DependentGratefulAnglerfish' frameborder='0' scrolling='no' allowfullscreen width='640' height='684'></iframe>"100"/>
+<iframe src='https://gfycat.com/ifr/DependentGratefulAnglerfish' frameborder='0' scrolling='no' allowfullscreen width='640' height='684'></iframe>"100"/>
 </div>

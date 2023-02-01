@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/c3Q2EdrCKAsE8z94ZF/giphy.gif" width="100"/>
 </div>
 
-🔎 ### INFO 
+🔎  INFO 
 - I’m working as a laboratory assistant researcher in Molecular medicine and Human genetics lab of North Eastern Federal University
 - 🔬 💻 :electron: Exploring Python and R for science and biologe
 

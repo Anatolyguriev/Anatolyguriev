@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/avatars/muppetwiki/bFJ8U3JYv8lm/80h.gif" width="100"/>
+  <img src="https://gfycat.com/dependentgratefulanglerfish" width="100"/>
 </div>

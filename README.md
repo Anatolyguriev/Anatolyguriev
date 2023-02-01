@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 <div id="badges">
   <a href="your-telegram-URL">
-    <img src="https://t.me/ENSAM-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://t.me/ENSAM-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
   </a>
 </div>

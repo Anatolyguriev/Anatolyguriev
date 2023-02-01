@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/c3Q2EdrCKAsE8z94ZF/giphy.gif" width="100"/>
 </div>
-
+### INFO
+I’m working as a laboratory assistant researcher in Molecular medicine and Human genetics lab of North Eastern Federal University
 - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Anatoly-white?style=flat&logo=Telegram&logoColor=blue)](https://t.me/Anatolyguriev)

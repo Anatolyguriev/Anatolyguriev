@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/c3Q2EdrCKAsE8z94ZF/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/c3Q2EdrCKAsE8z94ZF/giphy.gif" width="100"/>(https://t.me/Anatolyguriev)
 </div>
 
-<div id="badges">
-  <a href="your-https://t.me/ENSAM-URL">
-    <img src="https://img.shields.io/endpoint?color=blue&url=https%3A%2F%2Ft.me%2FENSAM" alt="(https://t.me/ENSAM) Badge"/>
-   
-</div>
+  [![telegram Badge] (https://img.shields.io/badge/-Anatoly-white?style=flat&logo=Telegram&logoColor=blue)](https://t.me/Anatolyguriev)

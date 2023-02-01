@@ -1,5 +1,5 @@
 ### Hi there 👋
-#Im Anatoly. 3rd year biology student at NEFU university
+# Im Anatoly. 3rd year biology student at NEFU university
 
 <!--
 **Anatolyguriev/Anatolyguriev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
